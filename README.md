@@ -10,3 +10,6 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
 
 ### 2026.10.1
 - Simple MLP Model with the Iris Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Week03_Simple_MLP_Model_with_the_Iris_Dataset.ipynb)
+
+### 2026.10.8
+- Convolutional Neural Network and CIFAR10 Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Week03_Simple_MLP_Model_with_the_Iris_Dataset.ipynb)
