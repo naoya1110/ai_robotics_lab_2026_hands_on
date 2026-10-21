@@ -20,3 +20,4 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
 
 ### Supplemental Materials
 - Vision Transformer and MNIST Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Week06_Vision_Transformer_and_MNIST_Dataset.ipynb)
+- Image Recognition Competition 2025 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Image_Classification_Competition.ipynb)
