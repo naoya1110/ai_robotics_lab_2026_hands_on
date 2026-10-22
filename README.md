@@ -19,7 +19,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
 - Transfer Learning　[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Week06_Transfer_Learning.ipynb)
 
 ### 2026.10.22
-- Image Recognition Competition 2026 - Super Mario Bros Competition
+- Image Recognition Competition 2026 - Super Mario Bros Competition [GitHub Repo](https://github.com/naoya1110/mario_competition)
 
 ### Supplemental Materials
 - Vision Transformer and MNIST Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Week06_Vision_Transformer_and_MNIST_Dataset.ipynb)
