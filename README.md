@@ -29,7 +29,7 @@ This repository contains hands-on practice materials for NCKU-Kagawa College AI 
 - Remove Broken Image Data [[code]](https://github.com/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/remove_bloken_img_data.md)
 
 ### 2026.11.5
-- Vision Transformer and MNIST Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Week06_Vision_Transformer_and_MNIST_Dataset.ipynb)
+- Vision Transformer and MNIST Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naoya1110/ai_robotics_lab_2026_hands_on/blob/main/Vision_Transformer_and_MNIST_Dataset.ipynb)
 - JetBot Road Following by a Classification Model [[github repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
 - JetBot Road Following by a Regression Model [[github repo]](https://github.com/naoya1110/road_following_by_regression) [[video]](https://youtu.be/UWU2p3zQht8)
 
